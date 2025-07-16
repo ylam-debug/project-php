@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "MacBook-Pro-de-Youssoupha",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus8.actions.githubusercontent.com/JdsoTuCDpfZJgV2x0DEWy4gYlJeLLhRTH9CtWNTtudBEAZbsSF/",
+  "gitHubUrl": "https://github.com/ylam-debug/project-php",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
