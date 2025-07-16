@@ -27,4 +27,4 @@ jobs:
         context: .
         file: docker/php/Dockerfile
         push: true
-        tags: ${{ secrets.DOCKER_USERNAME }}/php-student-app:latest
+        tags: ${{ secrets.DOCKER_USERNAME }}/project-php:latest
